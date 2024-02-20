@@ -3,6 +3,9 @@ Random Amiga Hardware. Some development, some practical
 
 # PiStormInside v1.0 - UNTESTED
 
+<img src="https://github.com/Fastdruid/AmigaHardware/blob/main/PiStormInside/PiStormInside.jpg?raw=true">
+
+
 Edge slot adaptor to fit an A2000/B2000 Co-Processor card inside the A500 case. Designed to fit PiStorm2k internally but other Co-Processor cards *MAY* fit. 
 This does not perform *ANY* Bus Arbitration. If you are not running suitable firmware you will need to remove the existing Processor. 
 
