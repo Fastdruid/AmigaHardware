@@ -10,8 +10,6 @@ Initially designed to use the "A2000" version of the PiStorm2K which re-generate
 Running E7MHz from Pin 92 to Pin 7 and it worked. 
 It is however still recommended to use the "A2000" version as this adds a header that can be used for other functionality.
 
-See individual README.md in the folder for more details.
-
 ### IPL0-2
 
 The A/B2000 utilise IPL0-2 as EINT7, EINT5 & EINT4. These are (justifyably) left off Denise.
