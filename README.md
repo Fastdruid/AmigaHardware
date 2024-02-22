@@ -1,6 +1,20 @@
 # AmigaHardware
 Random Amiga Hardware. Some development, some practical
 
+# Denise Zorro Co-Processor Riser - Semi Tested
+
+This is a Zorro-II riser to fit an PiStorm2K into a Denise (Mini-ITX Amiga) - https://www.enterlogic.se/?page_id=180 
+A Zorro-II slot is 98% the same as the A2000 Co-Processor slot in terms of signals however it is buffered. 
+This works in Denise as it utilises non-buffered Zorro-II slots so there is no concern over considering extra delay. 
+
+It may however work on other Zorro-II machines but has only been tested on Denise.
+
+Initially designed to use the "A2000" version of the PiStorm2K which re-generates the 7MHz signal from C1/C3 but this did not work (I suspect due to a dodgy chip on my board). 
+Running E7MHz from Pin 92 to Pin 7 and it worked. 
+It is however still recommended to use the "A2000" version as this adds a header that can be used for other functionality.
+
+See individual README.md in the folder for more details.
+
 # PiStormInside v1.0 - UNTESTED
 
 <img src="https://github.com/Fastdruid/AmigaHardware/blob/main/PiStormInside/PiStormInside.jpg?raw=true">
