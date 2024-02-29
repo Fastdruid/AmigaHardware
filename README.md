@@ -15,6 +15,12 @@ It is however still recommended to use the "A2000" version as this adds a header
 
 See individual README.md in the folder for more details.
 
+# Zorro DevBoard - UNTESTED
+
+<img src="https://github.com/Fastdruid/AmigaHardware/blob/main/Zorro_DevBoard/Zorro_DevBoard.png?raw=true">
+
+This is a breakout board for Zorro II/III, it does absolutely nothing other than break out all the various contacts to nice pins to allow playing with Zorro cards. 
+
 # PiStormInside v1.0 - UNTESTED
 
 <img src="https://github.com/Fastdruid/AmigaHardware/blob/main/PiStormInside/PiStormInside.jpg?raw=true">
