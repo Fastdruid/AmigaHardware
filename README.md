@@ -1,6 +1,11 @@
 # AmigaHardware
 Random Amiga Hardware. Some development, some practical
 
+# Licensing
+
+Please check for a license in each individual folder. If there is not one then that design is a fully open design and falls under the MIT license. 
+I request that anyone making any derivatives also open source them however I will not restrict the use of them by enforcing it. 
+
 # PiStormInside v1.1 - Tested/Working
 
 <img src="https://github.com/Fastdruid/AmigaHardware/blob/main/PiStormInside/PiStormInside.jpg?raw=true">
@@ -25,8 +30,6 @@ Designed as a 4-layer with Ground and (+5V) Power planes however can be made as 
 ## Revisions
 1.0 - Initial version.
 1.1 - Changed thermal relief on the ground plane(s)
-
-
 
 # Denise Zorro Co-Processor Riser - Semi Tested
 
